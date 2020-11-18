@@ -1,6 +1,6 @@
 ### Hi there 👋
--🔭 I’m currently learning React.js
-- 😄 Check these:- 
+#-🔭 I’m currently learning React.js
+#- 😄 Check these:- 
   - https://shenoyaditya11.github.io/NQueenVisualizer/
   - https://shenoyaditya11.github.io/ReactProject/
 <!--
