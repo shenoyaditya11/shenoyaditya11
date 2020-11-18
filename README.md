@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### 🔭 I’m currently learning React.js
+### 😄 Check these:- 
+https://shenoyaditya11.github.io/NQueenVisualizer/
+https://shenoyaditya11.github.io/ReactProject/
 <!--
 **shenoyaditya11/shenoyaditya11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
